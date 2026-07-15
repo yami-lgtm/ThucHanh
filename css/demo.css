@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+header {
+   background-color: aqua;
+}
+
+nav {
+    background-color: green;
+}
+
+main {
+    background-color: red;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    color: darkblue;
+}
+
+p {
+    line-height: 1.8;
+}
